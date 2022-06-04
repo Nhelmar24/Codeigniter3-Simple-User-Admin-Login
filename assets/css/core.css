@@ -1,0 +1,8 @@
+.ulogin{background:rgba(255,255,255,0.4);padding:20px;margin-top:5%;border-radius:5px;}
+    body{
+      background: url('../assets/images/back.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    overflow:hidden;}
